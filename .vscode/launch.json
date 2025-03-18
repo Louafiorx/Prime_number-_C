@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/islam/Documents/programing /cfile/::prime number ::",
+      "program": "/Users/islam/Documents/programing /cfile/::prime number ::/build/Debug/outDebug"
+    }
+  ]
+}
